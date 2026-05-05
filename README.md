@@ -7,13 +7,13 @@ In an era where technology evolves at lightning speed, large developers often fo
 Our mission is to build a highly detailed yet ultra-lightweight 3D Solar System. We focus on performance optimization so that students in developing nations—using low-end PCs or restricted internet connections—can explore the cosmos just as easily as those with the latest workstations.
 
 🚀 Key Features & Goals
-	- Performance First: Using low-poly models (custom-made) and optimized shaders to ensure smooth 60FPS on older devices.
+Performance First: Using low-poly models (custom-made) and optimized shaders to ensure smooth 60FPS on older devices.
 
-	- Global Accessibility: Future integration of auto-translation to local languages, breaking the English-language barrier in science.
+Global Accessibility: Future integration of auto-translation to local languages, breaking the English-language barrier in science.
 
-	- Educational Accuracy: Detailed satellite models and planetary data for classroom reference.
+Educational Accuracy: Detailed satellite models and planetary data for classroom reference.
 
-	- Democratizing Science: A tool designed for the "other half" of the world, ensuring no child is left behind in the race to the stars.
+Democratizing Science: A tool designed for the "other half" of the world, ensuring no child is left behind in the race to the stars.
 
 💖 Why Sponsor Us?
 By sponsoring this project, you are not just supporting a piece of software; you are investing in:
