@@ -1,4 +1,5 @@
 3D Solar System: Space for Everyone
+
 Hệ Mặt Trời 3D: Vũ trụ dành cho tất cả mọi người
 
 🌍 Mission Statement
@@ -49,7 +50,10 @@ Công nghệ thích ứng: Phần mềm hoạt động tốt ngay cả khi khôn
 
 Ươm mầm tương lai: Truyền cảm hứng cho thế hệ trẻ cùng chung tay hướng ra vũ trụ để khai phá và phát triển.
 
+===> ===> ===> ===> ===> ===> ===> ===>
 How to Support / Cách thức ủng hộ
+===> ===> ===> ===> ===> ===> ===> ===>
+
 You can support our journey via the Sponsor button on this repository. Every contribution helps us maintain servers, develop custom 3D assets, and keep this project free for everyone.
 
 Bạn có thể ủng hộ hành trình của chúng tôi qua nút Sponsor trên kho lưu trữ này. Mọi sự đóng góp đều giúp chúng tôi duy trì máy chủ, phát triển các mô hình 3D và giữ cho dự án này luôn miễn phí cho tất cả mọi người.
